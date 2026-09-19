@@ -1,0 +1,34 @@
+{
+  "doc_type": "insurance_letter",
+  "issuer": "Suraksha General Health Insurance, Claims & Reinstatement Cell, Chennai",
+  "notice_date": "2025-08-11",
+  "summary": "Your health insurance policy has lapsed because payment was not made in time, meaning you currently have no hospital cover. You have until September 10, 2025 to pay Rs. 19,350 and revive it.",
+  "urgency": "high",
+  "actions": [
+    {
+      "task": "Pay overdue premium plus revival penalty (Rs. 19,350) and submit Good Health Declaration Form",
+      "deadline": {
+        "type": "absolute",
+        "date": "2025-09-10",
+        "relative_days": null,
+        "relative_to": null,
+        "quote": "strictly on or before 2025-09-10"
+      },
+      "why_it_matters": "Restore health coverage and protect accumulated no-claim bonuses and waiting period credits"
+    }
+  ],
+  "documents_needed": [
+    "Duly signed Good Health Declaration Form (Form GH-4)",
+    "Previous year policy schedule copy",
+    "Recent medical prescription or discharge summary if hospitalized in the last 12 months"
+  ],
+  "if_ignored": "Policy will be terminated permanently and all continuity benefits and accumulated bonuses will be irrevocably lost.",
+  "contacts": [
+    { "label": "Revival Desk Helpline", "value": "044-28551122" },
+    { "label": "Customer Support WhatsApp", "value": "+91-9444012345" },
+    { "label": "Email", "value": "revival.desk@surakshainsure.example.com" }
+  ],
+  "unclear_points": [],
+  "readable": true,
+  "language": "en"
+}

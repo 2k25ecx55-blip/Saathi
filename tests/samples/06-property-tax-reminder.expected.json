@@ -1,0 +1,45 @@
+{
+  "doc_type": "govt_notice",
+  "issuer": "Bruhat Mahanagara Palike (BBMP), Revenue Department, South Zone, Bengaluru",
+  "notice_date": "2025-05-15",
+  "summary": "Your annual property tax of Rs. 9,000 is due for 2025-26. You can get a 5% discount by paying before June 30, 2025, or pay before September 30, 2025 to avoid penalty interest.",
+  "urgency": "medium",
+  "actions": [
+    {
+      "task": "Pay property tax before rebate deadline to receive 5% discount (Rs. 8,550)",
+      "deadline": {
+        "type": "absolute",
+        "date": "2025-06-30",
+        "relative_days": null,
+        "relative_to": null,
+        "quote": "Pay before 2025-06-30 to avail the 5% early bird discount"
+      },
+      "why_it_matters": "Save Rs. 450 through early payment rebate"
+    },
+    {
+      "task": "Final payment of property tax without penalty",
+      "deadline": {
+        "type": "absolute",
+        "date": "2025-09-30",
+        "relative_days": null,
+        "relative_to": null,
+        "quote": "Final date to pay without penalty interest is 2025-09-30"
+      },
+      "why_it_matters": "Avoid 2% per month penalty interest and legal distress warrants"
+    }
+  ],
+  "documents_needed": [
+    "10-digit SAS Property Identification (PID) number",
+    "Previous year tax payment receipt (Challan)",
+    "Khata certificate copy (only for first-time manual payments)"
+  ],
+  "if_ignored": "Statutory penalty interest of 2% per month on arrears, with risk of distress warrant or property attachment.",
+  "contacts": [
+    { "label": "BBMP Call Centre", "value": "080-22660000" },
+    { "label": "Online Portal", "value": "https://bbmptax.karnataka.gov.in" },
+    { "label": "Assistant Revenue Officer", "value": "aro.south@bbmp.gov.in" }
+  ],
+  "unclear_points": [],
+  "readable": true,
+  "language": "en"
+}

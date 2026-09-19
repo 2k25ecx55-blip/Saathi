@@ -1,0 +1,36 @@
+{
+  "doc_type": "govt_notice",
+  "issuer": "Regional Transport Authority (RTA), Zonal Office",
+  "notice_date": null,
+  "summary": "The transport office says there are record mismatches regarding your vehicle and asks you to come to their zonal office with your documents.",
+  "urgency": "low",
+  "actions": [
+    {
+      "task": "Visit zonal transport office in person with vehicle documents",
+      "deadline": {
+        "type": "none",
+        "date": null,
+        "relative_days": null,
+        "relative_to": null,
+        "quote": null
+      },
+      "why_it_matters": "Clarify vehicle registration and emission records"
+    }
+  ],
+  "documents_needed": [
+    "Vehicle registration certificate (RC Book)",
+    "Insurance copy",
+    "Pollution certificate"
+  ],
+  "if_ignored": "May cause administrative complications.",
+  "contacts": [],
+  "unclear_points": [
+    "No date of issuance stated on the letter",
+    "No deadline or due date specified for visiting the office",
+    "Exact address, room number, or visiting hours of the zonal office are not specified",
+    "No phone number, email address, or official portal mentioned for contact",
+    "Specific nature of discrepancies is not detailed"
+  ],
+  "readable": true,
+  "language": "en"
+}

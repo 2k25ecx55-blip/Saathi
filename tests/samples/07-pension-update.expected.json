@@ -1,0 +1,35 @@
+{
+  "doc_type": "govt_notice",
+  "issuer": "Central Civil Pension Disbursing Agency, Department of Pension & Pensioners' Welfare, New Delhi",
+  "notice_date": "2025-10-01",
+  "summary": "You must submit your yearly Life Certificate (Jeevan Pramaan) before November 30, 2025 so that your monthly pension continues without pause.",
+  "urgency": "medium",
+  "actions": [
+    {
+      "task": "Submit Annual Life Certificate (Jeevan Pramaan) online or at bank/post office",
+      "deadline": {
+        "type": "absolute",
+        "date": "2025-11-30",
+        "relative_days": null,
+        "relative_to": null,
+        "quote": "Absolute final deadline for all pensioners: 2025-11-30"
+      },
+      "why_it_matters": "Prevent stoppage of monthly pension payment from December 2025 onwards"
+    }
+  ],
+  "documents_needed": [
+    "Pension Payment Order (PPO) number",
+    "Aadhaar Card",
+    "Linked Bank Passbook",
+    "Active mobile phone for receiving OTP"
+  ],
+  "if_ignored": "Pension payment for the month of December 2025 onwards will be stopped until subsequent verification.",
+  "contacts": [
+    { "label": "Jeevan Pramaan Helpdesk", "value": "1800-111-555" },
+    { "label": "CPENGRAMS Portal", "value": "https://pgportal.gov.in/pension" },
+    { "label": "Email", "value": "help-pension@nic.in" }
+  ],
+  "unclear_points": [],
+  "readable": true,
+  "language": "en"
+}

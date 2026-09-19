@@ -1,0 +1,35 @@
+{
+  "doc_type": "bank_letter",
+  "issuer": "Bharat National Bank, Retail Banking Operations",
+  "notice_date": "2025-09-01",
+  "summary": "Your bank requires you to re-verify your identity documents (KYC) to keep your savings account active and prevent withdrawal limits.",
+  "urgency": "medium",
+  "actions": [
+    {
+      "task": "Submit updated KYC documents at your branch or via the mobile banking app",
+      "deadline": {
+        "type": "absolute",
+        "date": "2025-10-15",
+        "relative_days": null,
+        "relative_to": null,
+        "quote": "on or before 2025-10-15"
+      },
+      "why_it_matters": "Prevent a temporary freeze on debit transactions and withdrawal restrictions"
+    }
+  ],
+  "documents_needed": [
+    "Original Passport or Voter ID or Driving Licence",
+    "Self-attested copy of PAN Card (or Form 60)",
+    "Recent utility bill (electricity/piped gas not older than 2 months)",
+    "Two recent passport-size colour photographs"
+  ],
+  "if_ignored": "Temporary partial freeze on debit transactions and withdrawal restrictions as per regulatory guidelines.",
+  "contacts": [
+    { "label": "24x7 Customer Care", "value": "1800-425-2222" },
+    { "label": "Branch Manager Email", "value": "bkc.retail@bnb.co.in" },
+    { "label": "Official Web Portal", "value": "https://www.bharatnatbank.co.in/kyc-update" }
+  ],
+  "unclear_points": [],
+  "readable": true,
+  "language": "en"
+}

@@ -1,0 +1,35 @@
+{
+  "doc_type": "govt_notice",
+  "issuer": "Electricity Distribution Company Ltd. (EDCL), Revenue & Metering Cell, Noida",
+  "notice_date": "2025-06-10",
+  "summary": "Your electricity meter showed an overload warning because your power usage is higher than allowed. You must apply to increase your sanctioned power limit within 15 days.",
+  "urgency": "high",
+  "actions": [
+    {
+      "task": "Submit load regularization form and Rs. 1,500 inspection fee",
+      "deadline": {
+        "type": "relative",
+        "date": null,
+        "relative_days": 15,
+        "relative_to": "notice_date",
+        "quote": "within 15 days of the issue of this notice",
+        "resolved_date": "2025-06-25"
+      },
+      "why_it_matters": "Prevent electric power disconnection under Electricity Supply Code Regulation 4.2"
+    }
+  ],
+  "documents_needed": [
+    "Electricity connection account bill receipt",
+    "Copy of ownership proof / lease deed of premises",
+    "Signed electrician test certificate (Annexure B)"
+  ],
+  "if_ignored": "Power supply will be disconnected without further intimation.",
+  "contacts": [
+    { "label": "Call Centre", "value": "1912" },
+    { "label": "Local Sub-division Office", "value": "0120-2512999" },
+    { "label": "Online Portal", "value": "https://www.edcl-power.example.org" }
+  ],
+  "unclear_points": [],
+  "readable": true,
+  "language": "en"
+}

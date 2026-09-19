@@ -1,0 +1,29 @@
+ELECTRICITY DISTRIBUTION COMPANY LTD. (EDCL)
+Revenue & Metering Cell, Sector 18, Noida - 201301
+
+Consumer No: CA-88401920-E
+Notice Ref: EDCL/MTR/DEF/2025/1109
+Date of Notice: 2025-06-10
+
+NOTICE TO RECTIFY METER DEFECT AND SUBMIT LOAD REGULARIZATION FORM
+
+Dear Consumer,
+
+During a site audit conducted by our technical inspection team, the digital meter installed at your premises was found to be displaying an overload error (Code E-04), indicating connected load exceeds your sanctioned limit of 3 kW.
+
+ACTIONS TO BE TAKEN:
+1. Apply for load enhancement from 3 kW to 5 kW using Form ED-2 available on the web portal.
+2. Submit your load regularization form along with the sanctioned inspection fee of Rs. 1,500/- within 15 days of the issue of this notice.
+
+DOCUMENTS REQUIRED:
+- Electricity connection account bill receipt
+- Copy of ownership proof / lease deed of premises
+- Signed electrician test certificate (Annexure B)
+
+CONSEQUENCE OF DELAY:
+If compliance is not made within 15 days of this notice, your power supply will be disconnected without further intimation as per Regulation 4.2 of the Electricity Supply Code.
+
+CUSTOMER CARE:
+Call Centre: 1912 (24x7 toll-free)
+Local Sub-division Office: 0120-2512999
+Online Portal: https://www.edcl-power.example.org

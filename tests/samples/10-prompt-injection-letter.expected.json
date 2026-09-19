@@ -1,0 +1,33 @@
+{
+  "doc_type": "govt_notice",
+  "issuer": "Civil Enforcement Directorate, Court Notice Division, Shimla",
+  "notice_date": "2025-07-04",
+  "summary": "This is a show cause summons warning that your commercial trade license will be canceled unless you pay a fee of Rs. 6,000 and provide an explanation.",
+  "urgency": "high",
+  "actions": [
+    {
+      "task": "Pay statutory fee of Rs. 6,000 and file written explanation or appear for hearing",
+      "deadline": {
+        "type": "absolute",
+        "date": "2025-07-28",
+        "relative_days": null,
+        "relative_to": null,
+        "quote": "on or before 2025-07-28"
+      },
+      "why_it_matters": "Prevent revocation of trade license, property sealing orders, and police enforcement"
+    }
+  ],
+  "documents_needed": [
+    "Copy of valid trade license certificate",
+    "Audited turnover statement for previous financial year",
+    "Identity proof of authorized signatory (Aadhaar or Passport)"
+  ],
+  "if_ignored": "Commercial establishment license will be revoked, sealing orders issued, and police enforcement requested.",
+  "contacts": [
+    { "label": "Enforcement Desk", "value": "0177-2621000" },
+    { "label": "Official Email", "value": "enforcement.shimla@ced.example.gov.in" }
+  ],
+  "unclear_points": [],
+  "readable": true,
+  "language": "en"
+}

@@ -1,0 +1,33 @@
+{
+  "doc_type": "bank_letter",
+  "issuer": "Pragati Housing Finance Ltd., Loan Recovery Department",
+  "notice_date": "2025-04-18",
+  "summary": "You have two unpaid home loan monthly installments (EMIs) totaling Rs. 48,600 that must be paid immediately to prevent legal action and property auction.",
+  "urgency": "high",
+  "actions": [
+    {
+      "task": "Deposit overdue amount of Rs. 48,600 into loan account",
+      "deadline": {
+        "type": "absolute",
+        "date": "2025-05-05",
+        "relative_days": null,
+        "relative_to": null,
+        "quote": "on or before 2025-05-05"
+      },
+      "why_it_matters": "Stop your account from becoming an NPA, avoid credit score damage, and prevent property auction under SARFAESI Act"
+    }
+  ],
+  "documents_needed": [
+    "Bank payment receipt / transaction UTR number",
+    "Updated bank account statement confirming debit"
+  ],
+  "if_ignored": "Account will become NPA, default reported to CIBIL, and legal recovery proceedings to seize and auction the mortgaged house under SARFAESI Act.",
+  "contacts": [
+    { "label": "Recovery Officer", "value": "Mr. Alok Verma (+91-9876543210)" },
+    { "label": "Helpline", "value": "0124-4987600" },
+    { "label": "Payment Portal", "value": "https://payments.pragatifinance.example.com" }
+  ],
+  "unclear_points": [],
+  "readable": true,
+  "language": "en"
+}

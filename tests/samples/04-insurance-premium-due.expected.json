@@ -1,0 +1,33 @@
+{
+  "doc_type": "insurance_letter",
+  "issuer": "Jeevan Raksha Life Assurance Co., Policyholder Servicing Division",
+  "notice_date": "2025-06-02",
+  "summary": "Your annual life insurance premium of Rs. 24,500 is due. You have a grace period until July 25, 2025 to pay and keep your life coverage active.",
+  "urgency": "medium",
+  "actions": [
+    {
+      "task": "Pay renewal premium of Rs. 24,500",
+      "deadline": {
+        "type": "absolute",
+        "date": "2025-07-25",
+        "relative_days": null,
+        "relative_to": null,
+        "quote": "on or before the expiry of the grace period on 2025-07-25"
+      },
+      "why_it_matters": "Maintain life insurance cover and prevent policy lapse"
+    }
+  ],
+  "documents_needed": [
+    "Policy renewal notice copy or policy number",
+    "Account payee cheque (if paying offline at branch)"
+  ],
+  "if_ignored": "Policy will lapse, life cover protection ceases, and revival will require late fees plus health certificate.",
+  "contacts": [
+    { "label": "WhatsApp Service", "value": "+91-9123456780" },
+    { "label": "Customer Portal", "value": "https://jeevanraksha.example.in/pay" },
+    { "label": "Toll-Free Helpline", "value": "1800-209-8800" }
+  ],
+  "unclear_points": [],
+  "readable": true,
+  "language": "en"
+}
